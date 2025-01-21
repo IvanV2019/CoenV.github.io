@@ -2,4 +2,4 @@
 
 Welcome to my personal github site. 
 
-![Picture](/assets/Picture C.jpg)
+![Picture](/assets/Picture.png)
