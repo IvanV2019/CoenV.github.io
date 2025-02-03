@@ -5,5 +5,7 @@ Welcome to my personal github site.
 ![Picture](/docs/assets/Picture.png)
 
 My projects:
-1. LSTM Cashflow-prediction: ![Cashflow Prediction](/Projects/Test_cashflow.ipynb)
+1. LSTM Cashflow-prediction: ![Cashflow Prediction](/Projects/Cashflow_LSTM_prediction.ipynb)
+2. Sales invoices division by week on due date for cash flow purposes: ![Cashflow Prediction](/Projects/Importsalesbyweek.ipynb)
+3. 
    
